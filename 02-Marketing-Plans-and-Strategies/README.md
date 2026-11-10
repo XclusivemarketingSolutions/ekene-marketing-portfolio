@@ -1,4 +1,4 @@
 Marketing plans
-campaign proposals
-strategic recommendations and
-growth strategies.
+- campaign proposals
+- strategic recommendations and
+- growth strategies.
